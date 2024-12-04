@@ -17,19 +17,19 @@ Hi there! 👋 I'm **Filip**, an aspiring IT specialist and enthusiastic softwar
 ## 🛠️ Technologies & Tools
 
 ### 🖥️ Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,lua)](https://github.com/Filipunk15)
 
 ### 🔧 Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,git,github)](https://github.com/Filipunk15)
 
 ### 💾 Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://github.com/Filipunk15)
 
 ### 🎮 Other Interests
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://github.com/Filipunk15)
 
-### 👨‍💻 SOFTWARE, WHICH I USING
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,windows,notion,)](https://skillicons.dev)
+### 👨‍💻 TOOLS I WORK WITH 
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,windows,notion,)](https://github.com/Filipunk15)
 
 ---
 
