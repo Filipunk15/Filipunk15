@@ -16,21 +16,20 @@ Hi there! 👋 I'm **Filip**, an aspiring IT specialist and enthusiastic softwar
 
 ## 🛠️ Technologies & Tools
 
-### Programming
-- **Languages:** C#, Java, JavaScript
-- **Frameworks:** Spring Boot, ASP.NET Core, Razor Pages, Blazor
-- **Frontend/GUI:** WinForms, WPF, JavaFX
-- **Databases:** SQL, ORM tools
-- **Others:** Arduino, HTML, CSS
+### 🖥️ Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,java,javascript,html,css,rust,c)](https://skillicons.dev)
 
-### Automation
-- **Projects:** Parking Assistant, ServiceBook, Simple Calculator in C#
+### 🔧 Frameworks & Tools
+[![My Skills](https://skillicons.dev/icons?i=spring,aspnet,dotnet,blazor,git)](https://skillicons.dev)
 
-### DevOps
-- **Tools:** Git (branching, conflict resolution), REST API development
+### 💾 Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 
-### Other Interests
-- Raspberry Pi, Arduino, and **custom PC building**.
+### 📱 GUI/Frontend
+[![My Skills](https://skillicons.dev/icons?i=javafx,winforms,wpf)](https://skillicons.dev)
+
+### 🎮 Other Interests
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
 
 ---
 
@@ -63,10 +62,8 @@ I believe in:
 ## 📬 Let's Connect!
 
 - **GitHub:** You're already here! 😊
-- **LinkedIn:** https://www.linkedin.com/in/filip-lafata/
+- **LinkedIn:** [Filip Lafata](https://www.linkedin.com/in/filip-lafata/)
 
 ---
 
 ⭐ If you find my projects interesting or helpful, feel free to **star** or **fork** them. I welcome collaboration and feedback!
-
----
