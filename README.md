@@ -19,17 +19,15 @@ Hi there! 👋 I'm **Filip**, an aspiring IT specialist and enthusiastic softwar
 ### 🖥️ Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,lua)](https://github.com/Filipunk15)
 
-### 🔧 Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,git,github)](https://github.com/Filipunk15)
+### 🔧 TOOLS AND FRAMEWORKS I WORK WITH
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet)](https://github.com/Filipunk15)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,windows,notion,git,github)](https://github.com/Filipunk15)
 
 ### 💾 Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://github.com/Filipunk15)
 
 ### 🎮 Other Interests
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://github.com/Filipunk15)
-
-### 👨‍💻 TOOLS I WORK WITH 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,windows,notion,)](https://github.com/Filipunk15)
 
 ---
 
