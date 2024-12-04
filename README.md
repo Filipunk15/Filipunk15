@@ -1,4 +1,4 @@
-# # [![My Skills](https://skillicons.dev/icons?i=htmx)](https://github.com/Filipunk15) Filip's GitHub Profile # [![My Skills](https://skillicons.dev/icons?i=htmx)](https://github.com/Filipunk15)
+# [![My Skills](https://skillicons.dev/icons?i=htmx)](https://github.com/Filipunk15) Filip's GitHub Profile [![My Skills](https://skillicons.dev/icons?i=htmx)](https://github.com/Filipunk15) #
 
 Hi there! 👋 I'm **Filip**, an aspiring IT specialist and enthusiastic software developer. My journey in technology combines software development, automation, and a passion for solving problems.
 
