@@ -1,4 +1,4 @@
-# 💻 Filip's GitHub Profile
+# # [![My Skills](https://skillicons.dev/icons?i=htmx)](https://github.com/Filipunk15) Filip's GitHub Profile # [![My Skills](https://skillicons.dev/icons?i=htmx)](https://github.com/Filipunk15)
 
 Hi there! 👋 I'm **Filip**, an aspiring IT specialist and enthusiastic software developer. My journey in technology combines software development, automation, and a passion for solving problems.
 
@@ -17,19 +17,19 @@ Hi there! 👋 I'm **Filip**, an aspiring IT specialist and enthusiastic softwar
 ## 🛠️ Technologies & Tools
 
 ### 🖥️ Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,java,javascript,html,css,rust,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,lua)](https://skillicons.dev)
 
 ### 🔧 Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=spring,aspnet,dotnet,blazor,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,git,github)](https://skillicons.dev)
 
 ### 💾 Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
-
-### 📱 GUI/Frontend
-[![My Skills](https://skillicons.dev/icons?i=javafx,winforms,wpf)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,)](https://skillicons.dev)
 
 ### 🎮 Other Interests
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
+
+### 👨‍💻 SOFTWARE, WHICH I USING
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,windows,notion,)](https://skillicons.dev)
 
 ---
 
