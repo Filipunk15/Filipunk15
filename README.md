@@ -53,7 +53,8 @@
 
 - 💬 Discord: @filipunk
 - 👑 Filipunk Crew: https://discord.gg/8FkMAVZ3Ex
-- 🎮 Grimlight Studio : https://discord.gg/kZV3GyuV5B 
+- 🎮 Grimlight Studio : https://discord.gg/kZV3GyuV5B
+- [LinkedIn](https://skillicons.dev/icons?i=linkedin)[Filip Lafata](https://www.linkedin.com/in/filip-lafata/)
 ---
 
 <p align="center">🔥 Díky, že ses zastavil. Každý řádek kódu je nová kapitola.🔥</p>
