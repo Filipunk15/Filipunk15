@@ -48,13 +48,14 @@
 
 
 ---
+  ### 📫 Kontakt
 
-### 📫 Kontakt
-
-- 💬 Discord: @filipunk
-- 👑 Filipunk Crew: https://discord.gg/8FkMAVZ3Ex
-- 🎮 Grimlight Studio : https://discord.gg/kZV3GyuV5B
-  <a style="font-size:8px;">[LinkedIn](https://skillicons.dev/icons?i=linkedin)</a> : [Filip Lafata](https://www.linkedin.com/in/filip-lafata/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/filip-lafata/"><img src="https://skillicons.dev/icons?i=linkedin" alt="ℹ️ LinkedIn ℹ️"/></a>
+  <a href="https://discord.gg/8FkMAVZ3Ex"><img src="https://skillicons.dev/icons?i=discord" alt="👑 Filipunk Crew 👑"/></a>
+   <a href="https://discord.gg/kZV3GyuV5B"><img src="https://skillicons.dev/icons?i=discord" alt="🎮 Grimlight Studio 🎮"/></a>
+</p>
+  
 ---
 
 <p align="center">🔥 Díky, že ses zastavil. Každý řádek kódu je nová kapitola.🔥</p>
