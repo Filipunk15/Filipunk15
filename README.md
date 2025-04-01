@@ -16,7 +16,7 @@
 
 ### 🛠️ Technologie & nástroje
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,godot,blender,git,github,linux,figma,vscode,visualstudio,java,js,eclipse,mysql,html,css)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,godot,blender,git,github,linux,figma,vscode,visualstudio,java,js,eclipse,mysql,html,css,notion)
 
 ---
 
@@ -49,11 +49,11 @@
 
 ---
   ### 📫 Kontakt
-
 <p align="left">
   <a href="https://www.linkedin.com/in/filip-lafata/"><img src="https://skillicons.dev/icons?i=linkedin" alt="ℹ️ LinkedIn ℹ️"/></a>
   <a href="https://discord.gg/8FkMAVZ3Ex"><img src="https://skillicons.dev/icons?i=discord" alt="👑 Filipunk Crew 👑"/></a>
-   <a href="https://discord.gg/kZV3GyuV5B"><img src="https://skillicons.dev/icons?i=discord" alt="🎮 Grimlight Studio 🎮"/></a>
+  <a href="https://discord.gg/kZV3GyuV5B"><img src="https://skillicons.dev/icons?i=discord" alt="🎮 Grimlight Studio 🎮"/></a>
+  <a href="https://www.instagram.com/filiplafata?igsh=MTNmY2NmdGFlbDNyOQ%3D%3D&utm_source=qr"><img src="https://skillicons.dev/icons?i=instagram" alt="🖤 Instagram 🖤"/></a>
 </p>
   
 ---
