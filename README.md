@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Filip Lafata – Game Developer & Software Creator</h1>
 
 <p align="center">
-  👨‍💻 Solo vývojář her & softwaru | Zakladatel Grimlight Studio
+  👨‍💻 Solo vývojář her & softwaru
   <br>
   💡 Miluju temné příběhy, psychologii a promyšlené systémy
   <br>
@@ -13,16 +13,14 @@
 ### 🚀 O mně
 
 - 🧠 Jsem programátor tělem i duší – rád vymýšlím, tvořím a posouvám hranice
-- ⚔️ Specializuji se na **narrativní hry**, **detektivní mechaniky** a **simulace**
 - 💻 Nejvíc jedu v **C# (Godot, Unity)** a **.NET** technologiích
 - 🔧 Umím backendy, REST API, databáze i práci s hardwarem (IoT, automatizace)
-- 🎨 Dávám důraz na **design herních systémů** a silný **příběhový zážitek**
 
 ---
 
 ### 🛠️ Technologie & nástroje
 
-![My Skills](https://skillicons.dev/icons?i=csharp,dotnet,unity,godot,blender,git,github,linux,figma,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=csharp,dotnet,unity,godot,blender,git,github,linux,figma,vscode,visualstudio,java,js,eclipse,mysql,html,css)
 
 ---
 
@@ -30,8 +28,8 @@
 
 | Oblast            | Popis                                                                 |
 |-------------------|------------------------------------------------------------------------|
-| 🎮 Vývoj her       | 2D / 3D hry v Godotu nebo Unity, se zaměřením na temný narativ         |
-| ⚙️ Software        | Backend systémy v C#, API, nástroje pro firmy i osobní projekty        |
+| 🎮 Vývoj her       | 2D hry v Godotu nebo Unity        |
+| ⚙️ Software        | Backend systémy v C# / Java, API, nástroje pro firmy i osobní projekty        |
 | 🧠 Design          | Herní mechaniky, UX logika, narativní struktura                        |
 | 🎬 Příběhy         | Psychologie postav, hluboké dialogy, realistické zápletky             |
 
@@ -45,25 +43,21 @@
 | **Parking Assistant**        | Parkovací asistent, pro pronajímání soukromých parkovacích míst a pro zjednodušení dopravní infrastruktury ve městech  | Spring Boot, Java  |
 | **Easy Calculator**        | Základní kalkulačka se základními početními úkony  | WinForms, C#       |
 | **Service Book**        | Servisní kniha pro vedení oprav na daném autě  | Spring Boot, Java        |
+| **Quality Control System**        | Aplikace pro kontrolu jednotlivých dílů, pomocí načítání čárových kódů na etiketách   | NodeJS, JS        |
+| **API for print**        | API pro vyvolání tisk etiket   | C#        |
+| **Request Form App**        | Aplikace pro tvoření žádanek - "žádankový systém"   | Razor Pages, C#        |
+| **Unity projects**        | Projekty v Unity, které sloužily pro naučení se s Unity   | Unity, C#        |
+| **Maturitní projekt**        | Maturitní projekt - Chytrá časomíra na kterém jsem pracoval společně s kamarádem   | Arduino - Android Studio - Web, Java, C++         |
 
 
----
-
-### 🌌 Grimlight Studio
-
-> Herní značka zaměřená na **temnou estetiku**, **psychologii**, **emoce** a **drsné příběhy**.  
-> **Hry pod Grimlightem nejsou jen zábava. Jsou odrazem skutečných dilemat a světa.**
 
 ---
 
 ### 📫 Kontakt
 
-- 💼 Web: _(doplň později)_
-- 📧 Email: _tvůj email_
-- 🐦 Twitter: _(@filipunk nebo GrimlightStudio?)_
-- 🎥 YouTube devlog: _(_pokud budeš chtít_)_
-- 💬 Discord: _Filipunk#1234 (nebo odkaz na server?)_
-
+- 💬 Discord: @filipunk
+- 👑 Filipunk Crew: https://discord.gg/8FkMAVZ3Ex
+- 🎮 Grimlight Studio : https://discord.gg/kZV3GyuV5B 
 ---
 
-<p align="center">🔥 Díky, že ses zastavil. Každý řádek kódu je nová kapitola. A já teprve začínám. 🔥</p>
+<p align="center">🔥 Díky, že ses zastavil. Každý řádek kódu je nová kapitola.🔥</p>
