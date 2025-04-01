@@ -50,10 +50,12 @@
 ---
   ### 📫 Kontakt
 <p align="left">
-  <a href="https://www.linkedin.com/in/filip-lafata/"><img src="https://skillicons.dev/icons?i=linkedin" alt="ℹ️ LinkedIn ℹ️"/></a>
-  <a href="https://discord.gg/8FkMAVZ3Ex"><img src="https://skillicons.dev/icons?i=discord" alt="👑 Filipunk Crew 👑"/></a>
-  <a href="https://discord.gg/kZV3GyuV5B"><img src="https://skillicons.dev/icons?i=discord" alt="🎮 Grimlight Studio 🎮"/></a>
-  <a href="https://www.instagram.com/filiplafata?igsh=MTNmY2NmdGFlbDNyOQ%3D%3D&utm_source=qr"><img src="https://skillicons.dev/icons?i=instagram" alt="🖤 Instagram 🖤"/></a>
+ <p align="left">
+  <a href="https://www.linkedin.com/in/filip-lafata/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
+  <a href="https://discord.gg/8FkMAVZ3Ex" title="Filipunk Crew"><img src="https://skillicons.dev/icons?i=discord" height="32"/></a>
+  <a href="https://discord.gg/kZV3GyuV5B" title="Grimlight Studio"><img src="https://skillicons.dev/icons?i=discord" height="32"/></a>
+  <a href="https://www.instagram.com/filiplafata" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
+</p>></a>
 </p>
   
 ---
