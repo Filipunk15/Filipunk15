@@ -1,11 +1,7 @@
 <h1 align="center">🎮 Filip Lafata – Game Developer & Software Creator</h1>
 
 <p align="center">
-  👨‍💻 Solo vývojář her & softwaru
-  <br>
-  💡 Miluju temné příběhy, psychologii a promyšlené systémy
-  <br>
-  🔥 Cíl: Vytvářet silné zážitky, které zanechají stopu
+  👨‍💻 Solo vývojář her & softwaru a nadšenec do IT
 </p>
 
 ---
