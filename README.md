@@ -20,7 +20,7 @@
 
 ### 🛠️ Technologie & nástroje
 
-![My Skills](https://skillicons.dev/icons?i=csharp,dotnet,unity,godot,blender,git,github,linux,figma,vscode,visualstudio,java,js,eclipse,mysql,html,css)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,godot,blender,git,github,linux,figma,vscode,visualstudio,java,js,eclipse,mysql,html,css)
 
 ---
 
