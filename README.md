@@ -42,9 +42,10 @@
 | Projekt             | Popis                                                                 | Technologie     |
 |---------------------|------------------------------------------------------------------------|-----------------|
 | **Blackmoor**        | Detektivní příběh inspirovaný Agathou Christie a moderním thrillerem  | Godot, C#       |
-| **Inventory Tracker**| Systém pro správu skladových zásob s možností čtečky z telefonu       | .NET, API, SQLite |
-| **QWall**            | Automatizace tisku etiket s ESP komunikací a AI ověřením              | C#, Informix, SFTP |
-| **Floorball Manager**| Herní simulátor trénování florbalového týmu                          | C#, JSON, Razor |
+| **Parking Assistant**        | Parkovací asistent, pro pronajímání soukromých parkovacích míst a pro zjednodušení dopravní infrastruktury ve městech  | Spring Boot, Java  |
+| **Easy Calculator**        | Základní kalkulačka se základními početními úkony  | WinForms, C#       |
+| **Service Book**        | Servisní kniha pro vedení oprav na daném autě  | Spring Boot, Java        |
+
 
 ---
 
