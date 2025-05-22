@@ -31,17 +31,17 @@
 
 ### 🧩 Projekty
 
-| Projekt             | Popis                                                                 | Technologie     |
+| Projekt             | Popis                                                                 | Technologie     | | Technologie     | 
 |---------------------|------------------------------------------------------------------------|-----------------|
-| **Parking Management system**        | Aplikace pro nabízení "pronájmu" soukromých parkovacích míst pro zjednodušení dopravní infrastruktury ve městech s vyšší nedostupností parkovacích míst  | Spring Boot, Java  |
-| **Service Book**        | Servisní kniha pro vedení oprav na daném autě  | Spring Boot, Java        |
-| **Easy Calculator**        | Základní kalkulačka se základními početními úkony  | WinForms, C#       |
-| **API**        | API pro komunikaci mezi mými aplikacemi a firemním ERP   | C#        |
-| **DMS Application**        | Aplikace pro tvoření žádanek - "žádankový systém"   | Razor Pages, C#        |
-| **Unity projects**        | Projekty v Unity, které sloužily pro naučení se s Unity   | Unity, C#        |
-| **Discord quiz bot**        | Vlastní discord bot pro jednoduchou kvízovou hru, možnost přidat vlastní otázky  | C#         |
-| **Quality Control System**        | Aplikace pro kontrolu jednotlivých dílů, pomocí načítání čárových kódů na etiketách   | NodeJS, JS        |
-| **Maturitní projekt**        | Maturitní projekt - Chytrá časomíra na kterém jsem pracoval společně s kamarádem   | Arduino - Android Studio - Web, Java, C++         |
+| **Parking Management system**        | Aplikace pro nabízení "pronájmu" soukromých parkovacích míst pro zjednodušení dopravní infrastruktury ve městech s vyšší nedostupností parkovacích míst  | Spring Boot, Java  | A |
+| **Service Book**        | Servisní kniha pro vedení oprav na daném vozidle  | Spring Boot, Java        | A |
+| **Easy Calculator**        | Základní kalkulačka se základními početními úkony  | WinForms, C#       | A |
+| **API**        | API pro komunikaci mezi mými aplikacemi a firemním ERP   | C#        | A |
+| **DMS Application**        | Aplikace pro správu dokumentů, tvorbu žádanek   | Razor Pages, C#       | A |
+| **Unity projects**        | Projekty v Unity, které sloužily pro naučení se s Unity   | Unity, C#        | A |
+| **Discord quiz bot**        | Vlastní discord bot pro jednoduchou kvízovou hru, možnost přidat vlastní otázky  | C#         | A |
+| **Quality Control System**        | Aplikace pro kontrolu jednotlivých dílů, pomocí načítání čárových kódů na etiketách   | NodeJS, JS        | A |
+| **Maturitní projekt**        | Maturitní projekt - Chytrá časomíra na kterém jsem pracoval společně s kamarádem   | Arduino - Android Studio - Web, Java, C++         | A |
 
 
 
