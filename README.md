@@ -8,10 +8,10 @@
 
 ### 🚀 O mně
 
-- 🧠 Hrozně rád se učím něčemu novému a překonávám tak svoje vlastní překážky.
-- 💻 Nejvíce programuju v C#, ale mám také zkušenosti s Javou, Javascriptem, Luou
+- 🧠 Rád se učím novým věcem a překonávám tak svoje vlastní překážky.
+- 💻 Nejčastěji programuji v C#, ale mám také zkušenosti s Javou, Javascriptem, Luou
 - 🔧 Nejvíce se věnuji tvorbě webových aplikací, desktopových aplikací a her
-- 🚗 Pokud zrovna neprogramuji, většinou někde jezdím autem nebo sleduji sport (florball nebo hokej)
+- 🚗 Pokud zrovna neprogramuji, většinou někde jezdím autem nebo sleduji sport (florbal nebo hokej)
 ---
 
 ### 🛠️ Technologie & nástroje
@@ -33,7 +33,7 @@
 
 | Projekt             | Popis                                                                 | Technologie     | Status     |
 |---------------------|------------------------------------------------------------------------|-----------------| -----------------|
-| **Parking Management system**        | Aplikace pro nabízení "pronájmu" soukromých parkovacích míst pro zjednodušení dopravní infrastruktury ve městech s vyšší nedostupností parkovacích míst  | Spring Boot, Java  | Dokončen prototyp |
+| **[Parking Management system](https://github.com/Filipunk15/Parking-Assistant)**        | Aplikace pro nabízení "pronájmu" soukromých parkovacích míst pro zjednodušení dopravní infrastruktury ve městech s vyšší nedostupností parkovacích míst  | Spring Boot, Java  | Dokončen prototyp |
 | **Service Book**        | Servisní kniha pro vedení oprav na daném vozidle  | Spring Boot, Java        | Dokončen |
 | **Easy Calculator**        | Základní kalkulačka se základními početními úkony  | WinForms, C#       | Dokončen |
 | **API**        | API pro komunikaci mezi mými aplikacemi a firemním ERP   | C#        | Dokončen |
