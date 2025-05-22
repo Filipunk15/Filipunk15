@@ -1,7 +1,7 @@
-<h1 align="center">🎮 Filip Lafata – Game Developer & Software Creator</h1>
+<h1 align="center">🎮 Filip Lafata – Software Developer</h1>
 
 <p align="center">
-  👨‍💻 Solo vývojář her & softwaru a nadšenec do IT
+  👨‍💻 Solo vývojář & nadšenec do IT
 </p>
 
 ---
@@ -9,9 +9,9 @@
 ### 🚀 O mně
 
 - 🧠 Jsem programátor tělem i duší – rád vymýšlím, tvořím a posouvám hranice
-- 💻 Nejvíc jedu v **C# (Godot, Unity)** a **.NET** technologiích
-- 🔧 Umím backendy, REST API, databáze i práci s hardwarem (IoT, automatizace)
-
+- 💻 Nejvíce programuju v C#, ale mám také zkušenosti s Javou, Javascriptem, Luou
+- 🔧 Nejvíce se věnuji tvorbě webových aplikací, desktopových aplikací a her
+- 🚗 Pokud zrovna neprogramuji, většinou někde jezdím autem nebo sleduji sport (florball nebo hokej)
 ---
 
 ### 🛠️ Technologie & nástroje
@@ -26,8 +26,6 @@
 |-------------------|------------------------------------------------------------------------|
 | 🎮 Vývoj her       | 2D hry v Godotu nebo Unity        |
 | ⚙️ Software        | Backend systémy v C# / Java, API, nástroje pro firmy i osobní projekty        |
-| 🧠 Design          | Herní mechaniky, UX logika, narativní struktura                        |
-| 🎬 Příběhy         | Psychologie postav, hluboké dialogy, realistické zápletky             |
 
 ---
 
@@ -35,14 +33,13 @@
 
 | Projekt             | Popis                                                                 | Technologie     |
 |---------------------|------------------------------------------------------------------------|-----------------|
-| **Blackmoor**        | Detektivní příběh inspirovaný Agathou Christie a moderním thrillerem  | Godot, C#       |
 | **Parking Assistant**        | Parkovací asistent, pro pronajímání soukromých parkovacích míst a pro zjednodušení dopravní infrastruktury ve městech  | Spring Boot, Java  |
-| **Easy Calculator**        | Základní kalkulačka se základními početními úkony  | WinForms, C#       |
 | **Service Book**        | Servisní kniha pro vedení oprav na daném autě  | Spring Boot, Java        |
-| **Quality Control System**        | Aplikace pro kontrolu jednotlivých dílů, pomocí načítání čárových kódů na etiketách   | NodeJS, JS        |
-| **API for print**        | API pro vyvolání tisk etiket   | C#        |
-| **Request Form App**        | Aplikace pro tvoření žádanek - "žádankový systém"   | Razor Pages, C#        |
+| **Easy Calculator**        | Základní kalkulačka se základními početními úkony  | WinForms, C#       |
+| **API**        | API pro komunikaci mezi mými aplikacemi a firemním ERP   | C#        |
+| **DMS Application**        | Aplikace pro tvoření žádanek - "žádankový systém"   | Razor Pages, C#        |
 | **Unity projects**        | Projekty v Unity, které sloužily pro naučení se s Unity   | Unity, C#        |
+| **Quality Control System**        | Aplikace pro kontrolu jednotlivých dílů, pomocí načítání čárových kódů na etiketách   | NodeJS, JS        |
 | **Maturitní projekt**        | Maturitní projekt - Chytrá časomíra na kterém jsem pracoval společně s kamarádem   | Arduino - Android Studio - Web, Java, C++         |
 
 
@@ -52,11 +49,8 @@
 <p align="left">
  <p align="left">
   <a href="https://www.linkedin.com/in/filip-lafata/" title="ℹ️ LinkedIn ℹ️"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="https://discord.gg/8FkMAVZ3Ex" title="👑 Filipunk Crew 👑"><img src="https://skillicons.dev/icons?i=discord" height="32"/></a>
-  <a href="https://discord.gg/kZV3GyuV5B" title="🎮 Grimlight Studio 🎮"><img src="https://skillicons.dev/icons?i=discord" height="32"/></a>
+  <a href="https://discord.gg/8FkMAVZ3Ex" title="👑 Můj discord 👑"><img src="https://skillicons.dev/icons?i=discord" height="32"/></a>
   <a href="https://www.instagram.com/filiplafata" title="🖤 Instagram 🖤"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
 </p>
   
 ---
-
-<p align="center">🔥 Díky, že ses zastavil. Každý řádek kódu je nová kapitola.🔥</p>
