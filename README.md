@@ -33,7 +33,7 @@
 
 | Projekt             | Popis                                                                 | Technologie     |
 |---------------------|------------------------------------------------------------------------|-----------------|
-| **Parking Management system**        | Parkovací asistent, pro pronajímání soukromých parkovacích míst a pro zjednodušení dopravní infrastruktury ve městech  | Spring Boot, Java  |
+| **Parking Management system**        | Aplikace pro nabízení "pronájmu" soukromých parkovacích míst pro zjednodušení dopravní infrastruktury ve městech s vyšší nedostupností parkovacích míst  | Spring Boot, Java  |
 | **Service Book**        | Servisní kniha pro vedení oprav na daném autě  | Spring Boot, Java        |
 | **Easy Calculator**        | Základní kalkulačka se základními početními úkony  | WinForms, C#       |
 | **API**        | API pro komunikaci mezi mými aplikacemi a firemním ERP   | C#        |
