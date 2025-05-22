@@ -8,7 +8,7 @@
 
 ### 🚀 O mně
 
-- 🧠 Jsem programátor tělem i duší – rád vymýšlím, tvořím a posouvám hranice
+- 🧠 Hrozně rád se učím něčemu novému a překonávám tak svoje vlastní překážky.
 - 💻 Nejvíce programuju v C#, ale mám také zkušenosti s Javou, Javascriptem, Luou
 - 🔧 Nejvíce se věnuji tvorbě webových aplikací, desktopových aplikací a her
 - 🚗 Pokud zrovna neprogramuji, většinou někde jezdím autem nebo sleduji sport (florball nebo hokej)
