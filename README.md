@@ -31,7 +31,7 @@
 
 ### 🧩 Projekty
 
-| Projekt             | Popis                                                                 | Technologie     | | Technologie     | 
+| Projekt             | Popis                                                                 | Technologie     | Technologie     | 
 |---------------------|------------------------------------------------------------------------|-----------------|
 | **Parking Management system**        | Aplikace pro nabízení "pronájmu" soukromých parkovacích míst pro zjednodušení dopravní infrastruktury ve městech s vyšší nedostupností parkovacích míst  | Spring Boot, Java  | A |
 | **Service Book**        | Servisní kniha pro vedení oprav na daném vozidle  | Spring Boot, Java        | A |
