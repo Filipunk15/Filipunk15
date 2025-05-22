@@ -39,6 +39,7 @@
 | **API**        | API pro komunikaci mezi mými aplikacemi a firemním ERP   | C#        |
 | **DMS Application**        | Aplikace pro tvoření žádanek - "žádankový systém"   | Razor Pages, C#        |
 | **Unity projects**        | Projekty v Unity, které sloužily pro naučení se s Unity   | Unity, C#        |
+| **Discord quiz bot**        | Vlastní discord bot pro jednoduchou kvízovou hru, možnost přidat vlastní otázky  | C#         |
 | **Quality Control System**        | Aplikace pro kontrolu jednotlivých dílů, pomocí načítání čárových kódů na etiketách   | NodeJS, JS        |
 | **Maturitní projekt**        | Maturitní projekt - Chytrá časomíra na kterém jsem pracoval společně s kamarádem   | Arduino - Android Studio - Web, Java, C++         |
 
