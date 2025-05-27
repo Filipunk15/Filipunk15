@@ -4,30 +4,9 @@
   👨‍💻 Solo vývojář & nadšenec do IT
 </p>
 
----
-
-### 🚀 O mně
-
-- 🧠 Rád se učím novým věcem a překonávám tak svoje vlastní překážky.
-- 💻 Nejčastěji programuji v C#, ale mám také zkušenosti s Javou, Javascriptem, Luou
-- 🔧 Nejvíce se věnuji tvorbě webových aplikací, desktopových aplikací a her
-- 🚗 Pokud zrovna neprogramuji, většinou někde jezdím autem nebo sleduji sport (florbal nebo hokej)
----
-
 ### 🛠️ Technologie & nástroje
 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,godot,blender,git,github,figma,vscode,visualstudio,java,js,eclipse,mysql,html,css,notion)
-
----
-
-### 🧪 Moje zaměření
-
-| Oblast            | Popis                                                                 |
-|-------------------|------------------------------------------------------------------------|
-| 🎮 Vývoj her       | 2D hry v Godotu nebo Unity        |
-| ⚙️ Software        | Backend systémy v C# / Java, API, nástroje pro firmy i osobní projekty        |
-
----
 
 ### 🧩 Projekty
 
