@@ -28,9 +28,7 @@
   ### 📫 Kontakt
 <p align="left">
  <p align="left">
-  <a href="https://www.linkedin.com/in/filip-lafata/" title="ℹ️ LinkedIn ℹ️"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="https://discord.gg/8FkMAVZ3Ex" title="👑 Můj discord 👑"><img src="https://skillicons.dev/icons?i=discord" height="32"/></a>
-  <a href="https://www.instagram.com/filiplafata" title="🖤 Instagram 🖤"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
+  <a href="https://filipunk.cz" title="ℹ️ LinkedIn ℹ️"><img src="https://skillicons.dev/icons?i=htmx" height="32"/></a>
 </p>
   
 ---
