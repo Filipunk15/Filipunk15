@@ -1,34 +1,7 @@
-<h1 align="center">🎮 Filip Lafata – Software Developer</h1>
-
 <p align="center">
-  👨‍💻 Solo vývojář
+I am a 22-year-old software developer with a focus on backend development, mobile apps, and game development. I am always looking to expand my skills and knowledge. I am open-minded and highly motivated to learn and improve.
 </p>
 
-### 🛠️ Technologie & nástroje
+### 💻 TECH STACK
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,unreal,godot,blender,git,github,figma,vscode,visualstudio,java,js,eclipse,mysql,html,css,notion)
-
-### 🧩 Projekty
-
-| Projekt             | Popis                                                                 | Technologie     | Status     |
-|---------------------|------------------------------------------------------------------------|-----------------| -----------------|
-| [Parking Management system](https://github.com/Filipunk15/Parking-Assistant)        | Aplikace pro nabízení "pronájmu" soukromých parkovacích míst pro zjednodušení dopravní infrastruktury ve městech s vyšší nedostupností parkovacích míst  | Spring Boot, Java  | Dokončen prototyp |
-| [Service Book](https://github.com/Filipunk15/Servicebook)        | Servisní kniha pro vedení oprav na daném vozidle  | Spring Boot, Java        | Dokončen |
-| [Easy Calculator](https://github.com/Filipunk15/CalculatorGUI)        | Základní kalkulačka se základními početními úkony  | WinForms, C#       | Dokončen |
-| **API**        | API pro komunikaci mezi mými aplikacemi a firemním ERP   | C#        | Dokončen |
-| **DMS Application**        | Aplikace pro správu dokumentů, tvorbu žádanek   | Razor Pages, C#       | Probíhá.. |
-| **Unity projects**        | Projekty v Unity, které sloužily pro naučení se s Unity   | Unity, C#        | Probíhá.. |
-| [Discord quiz bot](https://github.com/Filipunk15/DiscordBot.net)        | Vlastní discord bot pro jednoduchou kvízovou hru, možnost přidat vlastní otázky  | C#         | Dokončen |
-| **Quality Control System**        | Aplikace pro kontrolu jednotlivých dílů, pomocí načítání čárových kódů na etiketách   | NodeJS, JS        | Dokončen |
-| **Maturitní projekt**        | Maturitní projekt - Chytrá časomíra na kterém jsem pracoval společně s kamarádem   | Arduino - Android Studio - Web, Java, C++         | Dokončen |
-
-
-
----
-  ### 📫 Kontakt
-<p align="left">
- <p align="left">
-  <a href="https://filipunk.cz" title="ℹ️ LinkedIn ℹ️"><img src="https://skillicons.dev/icons?i=htmx" height="32"/></a>
-</p>
-  
----
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white), ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) , ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white),![NuGet](https://img.shields.io/badge/nuget-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white),![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white),![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine),![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white),![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white),![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white),![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white),![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
